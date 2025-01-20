@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi There 👋
+My name is Rocco Nardozzo!
+I am currently a computer science student at Duquesne University.
+I'm currently learning about software engineering!
 <!--
 **rocco-nardozzo/rocco-nardozzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
